@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**chlebek07/chlebek07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am chlebek07 - programmer who love to make shitty things, and loves open-source
 
-Here are some ideas to get you started:
+## Info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I use JS, PY, C# and LUA
+- I was in W&M group, making a communicator
+- I use VSC, VS
+- I love making discord bots
+
+![text]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://animesher.com/orig/1/194/1949/19492/animesher.com_--serial-experiments-lain-1949211.gif))
+
+Bye 
