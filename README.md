@@ -9,6 +9,6 @@ I am chlebek07 - programmer who love to make shitty things, and loves open-sourc
 - I use VSC, VS
 - I love making discord bots
 
-![text](https://giffiles.alphacoders.com/171/171318.gif)
+Bye
 
-Bye 
+![text](https://giffiles.alphacoders.com/171/171318.gif)
