@@ -11,4 +11,4 @@ I am chlebek07 - programmer who love to make shitty things, and loves open-sourc
 
 ![text](https://okazu.yuricon.com/wp-content/uploads/sites/2/2013/07/lain-image.jpg)
 
-### Bye
+### goodbye chat
