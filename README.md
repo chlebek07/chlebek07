@@ -1,6 +1,6 @@
 # Hi!
 
-I am chlebek07 - programmer who love to make random things
+I am chlebek07 - programmer who loves to make random things
 
 ## Info
 
